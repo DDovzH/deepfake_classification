@@ -27,8 +27,5 @@ To use this project for deepfake classification:
 ## Contributing
 Contributions to improve the deepfake classification model or extend the project's capabilities are welcome. Please submit a pull request or open an issue to discuss proposed changes.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
 ## Acknowledgments
 - Dataset providers and research communities focused on digital media integrity.
