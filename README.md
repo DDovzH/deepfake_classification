@@ -1,7 +1,7 @@
 # Deepfake Classification Project
 
 ## Overview
-This project is designed to classify deepfake videos using machine learning techniques. Deepfake technology has advanced significantly, making it increasingly difficult to distinguish between real and synthetic media. This project aims to address this challenge by providing a robust solution for deepfake detection.
+This project is designed to classify deepfake photos using machine learning techniques. Deepfake technology has advanced significantly, making it increasingly difficult to distinguish between real and synthetic media. This project aims to address this challenge by providing a robust solution for deepfake detection.
 
 ## Getting Started
 
