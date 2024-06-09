@@ -23,9 +23,3 @@ To use this project for deepfake classification:
 1. Navigate to the project directory.
 2. Open the deepfake_classification.ipynb notebook in Jupyter Notebook or JupyterLab.
 3. Follow the instructions within the notebook to train and test the model.
-
-## Contributing
-Contributions to improve the deepfake classification model or extend the project's capabilities are welcome. Please submit a pull request or open an issue to discuss proposed changes.
-
-## Acknowledgments
-- Dataset providers and research communities focused on digital media integrity.
